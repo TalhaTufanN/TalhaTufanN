@@ -53,5 +53,5 @@ The products I build at [GWR Labs](https://gwrlabs.com) are in active beta. Sour
 ---
 
 <div align="center">
-  <i>Interested in working together or want a demo? → <a href="mailto:contact@gwrlabs.com">contact@gwrlabs.com</a></i>
+  <i>Open to freelance work and collaboration → <a href="mailto:contact@gwrlabs.com">contact@gwrlabs.com</a></i>
 </div>
