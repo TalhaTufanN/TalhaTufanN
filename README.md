@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**TalhaTufanN/TalhaTufanN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Talha Tufan 👋
 
-Here are some ideas to get you started:
+**Mobile & Web Developer** · Founder of [**GWR Labs**](https://gwrlabs.com) · İstanbul, Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and ship cross-platform apps end-to-end — from idea to a product that's live.
+Currently building a small studio of React Native & web products under **GWR Labs**.
+
+<a href="https://gwrlabs.com"><img src="https://img.shields.io/badge/Website-gwrlabs.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/talhatufan"><img src="https://img.shields.io/badge/LinkedIn-talhatufan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:contact@gwrlabs.com"><img src="https://img.shields.io/badge/Contact-contact@gwrlabs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
+
+## 🚀 What I'm building
+
+I run [**GWR Labs**](https://gwrlabs.com) — an indie software studio. The source is private, but these products are real and in active beta — MoviePort is live on the web and Raadiocast is in closed beta on Google Play.
+
+| Project | What it is | Status |
+|---|---|---|
+| 🎬 **MoviePort** | Movie & series discovery app (React Native · TMDB) | Closed beta — [try it live](https://movieport.gwrlabs.com) |
+| 📻 **Raadiocast** | Radio & podcast streaming app with Google Sign-In | Closed beta on Google Play · [info](https://raadiocast.gwrlabs.com) |
+
+> 🔒 Product source code is kept private. The showcase repositories below contain full write-ups, screenshots and live demos.
+
+---
+
+## 🧰 Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TalhaTufanN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaTufanN&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
