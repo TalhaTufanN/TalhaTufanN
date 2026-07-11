@@ -43,12 +43,13 @@ I run [**GWR Labs**](https://gwrlabs.com) — an indie software studio. The sour
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TalhaTufanN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaTufanN&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TalhaTufanN?tab=followers"><img src="https://img.shields.io/github/followers/TalhaTufanN?label=Followers&style=for-the-badge&logo=github&color=0A66C2&labelColor=1c1c1c" /></a>
+<img src="https://komarev.com/ghpvc/?username=TalhaTufanN&label=Profile%20views&style=for-the-badge&color=0A66C2" />
+<a href="https://github.com/TalhaTufanN"><img src="https://img.shields.io/badge/@TalhaTufanN-follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
