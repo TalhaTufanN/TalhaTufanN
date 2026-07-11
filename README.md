@@ -4,8 +4,7 @@
 
 **Mobile & Web Developer** · Founder of [**GWR Labs**](https://gwrlabs.com) · İstanbul, Türkiye
 
-I design and ship cross-platform apps end-to-end — from idea to a product that's live.
-Currently building a small studio of React Native & web products under **GWR Labs**.
+I build cross-platform mobile and web apps end-to-end, and run a small product studio, **GWR Labs**, where I ship them.
 
 <a href="https://gwrlabs.com"><img src="https://img.shields.io/badge/Website-gwrlabs.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/talhatufan"><img src="https://img.shields.io/badge/LinkedIn-talhatufan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -15,20 +14,18 @@ Currently building a small studio of React Native & web products under **GWR Lab
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
-I run [**GWR Labs**](https://gwrlabs.com) — an indie software studio. The source is private, but these products are real and in active beta — MoviePort is live on the web and Raadiocast is in closed beta on Google Play.
+The products I build at [GWR Labs](https://gwrlabs.com) are in active beta. Source is private; the showcase repositories below have the write-ups and screenshots.
 
 | Project | What it is | Status |
 |---|---|---|
-| 🎬 **MoviePort** | Movie & series discovery app (React Native · TMDB) | Closed beta — [try it live](https://movieport.gwrlabs.com) |
-| 📻 **Raadiocast** | Radio & podcast streaming app with Google Sign-In | Closed beta on Google Play · [info](https://raadiocast.gwrlabs.com) |
-
-> 🔒 Product source code is kept private. The showcase repositories below contain full write-ups, screenshots and live demos.
+| **MoviePort** | Movie & series discovery app (React Native · TMDB) | Closed beta — [try it live](https://movieport.gwrlabs.com) |
+| **Raadiocast** | Radio & podcast streaming app with Google Sign-In | Closed beta on Google Play · [info](https://raadiocast.gwrlabs.com) |
 
 ---
 
-## 🧰 Tech I work with
+## Tech
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -43,7 +40,7 @@ I run [**GWR Labs**](https://gwrlabs.com) — an indie software studio. The sour
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -54,3 +51,7 @@ I run [**GWR Labs**](https://gwrlabs.com) — an indie software studio. The sour
 </div>
 
 ---
+
+<div align="center">
+  <i>Interested in working together or want a demo? → <a href="mailto:contact@gwrlabs.com">contact@gwrlabs.com</a></i>
+</div>
