@@ -29,8 +29,8 @@ The products I build at [GWR Labs](https://gwrlabs.com) range from live tools to
 
 | Project | What it is | Status |
 |---|---|---|
-| **MoviePort** | Movie & series discovery app (React Native · TMDB) | Closed beta. [try it live](https://movieport.gwrlabs.com) |
-| **Raadiocast** | Radio & podcast streaming app with Google Sign-In | Closed beta on Google Play · [info](https://raadiocast.gwrlabs.com) |
+| **MoviePort** | Movie & series discovery app (React Native · TMDB) | Live on Google Play and WEB. [try it live](https://movieport.gwrlabs.com) |
+| **Raadiocast** | Radio & podcast streaming app with Google Sign-In | Live on Google Play · [info](https://raadiocast.gwrlabs.com) |
 | **Wordulary** | Turns an English word list into Turkish vocabulary sheets & a quiz (FastAPI · DeepL) | **Live & open source.** [try it](https://wordulary.gwrlabs.com) · [code](https://github.com/TalhaTufanN/wordulary) |
 
 ---
